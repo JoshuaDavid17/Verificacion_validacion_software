@@ -1,1 +1,46 @@
+# 9. Actividad final
+Desafío:
+Elige una aplicación que uses todos los días (por ejemplo: WhatsApp, Spotify, Moodle, Gmail).
+Redacta 3 historias de usuario con criterios de aceptación para nuevas funciones que te gustaría tener
 
+### Aplicación: WhatsApp
+### Historia de Usuario 1: Programar mensajes
+
+Como usuario de WhatsApp, <br>
+quiero programar mensajes para enviarlos automáticamente, <br>
+para no olvidar enviar información importante a mis contactos.
+
+### Criterios de aceptación
+
+- El sistema debe permitir elegir fecha y hora exacta del envío.
+- El mensaje debe enviarse automáticamente sin que el usuario abra la app.
+- Debe existir una sección donde se puedan ver, editar o cancelar mensajes programados.
+- Historia de Usuario 2: Buscar mensajes por contenido dentro de audios
+***
+
+### Aplicación: YouTube
+### Historia de Usuario 4: Recordatorio de videos guardados
+
+Como usuario de YouTube,<br>
+quiero recibir recordatorios de videos guardados en “Ver más tarde”,<br>
+para no olvidar contenido que me interesa.
+
+### Criterios de aceptación
+
+- La app debe enviar un recordatorio diario o semanal configurable.
+- Debe incluir una lista de los videos pendientes.
+- El usuario puede desactivar los recordatorios cuando quiera.
+***
+
+# Aplicación 3: TikTok
+### Historia de Usuario: Crear listas de reproducción de videos
+
+Como usuario de TikTok, <br>
+quiero crear listas de reproducción personalizadas,<br>
+para organizar videos por temas y verlos cuando quiera.
+
+### Criterios de aceptación
+
+- El usuario debe poder crear listas con nombre y descripción.
+- Debe permitir añadir y eliminar videos fácilmente.
+- Las listas deben poder ser públicas o privadas.
