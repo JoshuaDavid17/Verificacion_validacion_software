@@ -1,4 +1,6 @@
-# Ejemplo 1: Sistema de compras en línea
+
+# ACTIVIDAD EN CLASE
+## Ejemplo 1: Sistema de compras en línea
 
 ### Historia de usuario
 Como cliente,  
@@ -20,7 +22,7 @@ Alta
 Permite revisar y organizar sus compras antes de pagar, mejorando la experiencia de compra.
 
 
-# Ejemplo 2: Sistema de turnos médicos
+## Ejemplo 2: Sistema de turnos médicos
 
 ### Historia de usuario
 Como paciente,  
@@ -41,8 +43,8 @@ Alta (Es una funcionalidad principal del sistema)
 ### Valor:
 Permite disminuir filas, mejorar la experiencia del paciente y optimizar la gestión de citas médicas.
 
-
-# Ejemplo 3: Sistema de control de medicamentos próximos a caducar
+# TAREA
+## Ejemplo 3: Sistema de control de medicamentos próximos a caducar
 
 ### Historia de usuario
 Como encargado de farmacia,  
@@ -64,7 +66,7 @@ Alta -> Evitar pérdidas económicas y riesgos para los pacientes es crítico.
 Reduce pérdidas por vencimiento, mejora el control de inventario y garantiza la seguridad del paciente.
   
 
-# Ejemplo 4: Biblioteca digital
+## Ejemplo 4: Biblioteca digital
 
 ### Historia de usuario
 Como lector,  
@@ -85,7 +87,7 @@ Media-Alta -> La búsqueda es esencial para la usabilidad de la biblioteca digit
 ### Valor:
 Facilita el acceso rápido a los libros, mejora la experiencia del usuario y aumenta el uso de la plataforma.
 
-# Ejemplo 5: Sistema de seguimiento para mascotas rescatadas
+## Ejemplo 5: Sistema de seguimiento para mascotas rescatadas
 
 ### Historia de usuario
 Como voluntario de un refugio,  
